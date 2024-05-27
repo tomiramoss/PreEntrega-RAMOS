@@ -1,0 +1,29 @@
+[33mcommit 0ab8b5f91d77ac76ce593b71343bbc53eaada4b0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Tomas Ramos <tomiramoss2005@gmail.com>
+Date:   Mon May 27 18:33:28 2024 -0300
+
+    Footer terminado version desktop
+
+[33mcommit eb54e005a988f9a89f13af9855493667f9e99d8c[m
+Author: Tomas Ramos <tomiramoss2005@gmail.com>
+Date:   Mon May 27 18:30:38 2024 -0300
+
+    se arreglan detallen de los iconos en el footer
+
+[33mcommit 1e6aced55bc2a4b728ac10c85fd2d627a15ff56b[m
+Author: Tomas Ramos <tomiramoss2005@gmail.com>
+Date:   Mon May 27 17:33:13 2024 -0300
+
+    Se agrega el diseño responsive para celulares a la grilla de la pagina merch.html
+
+[33mcommit be583a08c0dba582316c2d63de3016f5513e29a9[m
+Author: Tomas Ramos <tomiramoss2005@gmail.com>
+Date:   Mon May 27 14:25:55 2024 -0300
+
+    Se agrego la estructura del footer a todas las paginas
+
+[33mcommit f2a9559974973278f9b8340ff7d1f09d6ddcfd8f[m
+Author: Tomas Ramos <tomiramoss2005@gmail.com>
+Date:   Mon May 27 14:05:22 2024 -0300
+
+    Pagina sin finalizar la estructura de la Discografia
