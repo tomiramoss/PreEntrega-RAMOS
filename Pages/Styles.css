@@ -17,6 +17,12 @@ h2 {
     text-align: center;
 }
 
+.logos-footer{
+    height: 200px;
+    width: 200px;
+    place-items: center;
+}
+
 #merch-duki {
     font-size: 60px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -135,30 +141,13 @@ body{
     color: white;
     text-decoration: none;
     margin: 10px;
+    border-radius: 6px;
 }
 
-
-
-
-.instagram-logo-inicio{
-    width: 20%;
-    height: 20%;
-    margin-left: 9%;
-}
-
-.youtube-logo-inicio{
-    width: 20%;
-    height: 20%;
-}
-
-.Twitter-logo-inicio{
-    width: 20%;
-    height: 20%;
-}
-
-.spotify-logo-inicio {
-    width: 20%;
-    height: 20%;
+li:hover {
+    border-radius: 5px;
+    background-color: #BE71BE;
+    padding: 3px;
 }
 
 .Barra-inicio {
