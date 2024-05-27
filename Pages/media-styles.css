@@ -1,0 +1,13 @@
+#grid-merch {
+    display: grid;
+    grid-template-columns: auto auto auto; 
+    grid-template-rows: auto auto; 
+    gap: 20px; 
+}
+
+@media (max-width: 768px) { 
+    #grid-merch {
+    grid-template-columns: auto; 
+    grid-template-rows: auto auto auto auto auto auto; 
+    }
+}

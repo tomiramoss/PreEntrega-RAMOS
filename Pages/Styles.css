@@ -24,16 +24,6 @@ h2 {
     color: blueviolet;
 }
 
-.contenedor {
-    display: grid;
-    padding: 0%;
-    height: 100%;
-    width: 100%;
-    grid-template-columns: auto auto auto;
-    grid-template-rows: auto auto;
-    gap: 10px;
-}
-
 .item {
     background-color: #322132 ;
     padding: 10px;
