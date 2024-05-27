@@ -1,0 +1,16 @@
+#Ejemplos de elementos que se pueden agregar en .gitignore
+
+# Ignora archivos del sistema Mac 
+.DS_store
+
+# Ignora la carpeta img_cache
+img_cache
+
+# Ignora todos los archivos de texto
+*.txt
+
+# Ignora el archivo background.jpg
+background.jpg
+
+#Como ignorar la carpeta de node de modulos descargados
+node_modules/
