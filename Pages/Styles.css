@@ -27,6 +27,7 @@ h2 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
     color: blueviolet;
+    justify-content: center;
 }
 
 .item {
@@ -161,15 +162,17 @@ li:hover {
 }
 
 #foto-duki-inicio {
-    width: 50%;
-    height: 50%;
-    margin: 0%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-left: 30%;
+    width: 40%;
+    height: 20%;
 }
 
 #texto-inicio {
     color: white;
     padding: 0%;
-    margin-top: 10%;
     font-size: 20px;
     font-weight: bolder;
     font-style: italic;
