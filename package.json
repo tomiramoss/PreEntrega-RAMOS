@@ -1,0 +1,26 @@
+{
+  "name": "preentrega3-ramos",
+  "version": "1.0.0",
+  "description": "Proyecto web",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomiramoss/PreEntrega3-RAMOS.git"
+  },
+  "keywords": [
+    "duki",
+    "cantantes",
+    "musica",
+    "famosos",
+    "trap"
+  ],
+  "author": "Tomas ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomiramoss/PreEntrega3-RAMOS/issues"
+  },
+  "homepage": "https://github.com/tomiramoss/PreEntrega3-RAMOS#readme"
+}

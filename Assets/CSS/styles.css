@@ -1,0 +1,192 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 120px;
+  margin: 0%;
+  padding: 0%;
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  position: sticky;
+}
+
+h2 {
+  color: white;
+  font: bolder;
+  font-size: 60px;
+  text-align: center;
+}
+
+.logos-footer {
+  height: 100px;
+  width: 100px;
+}
+
+#merch-duki {
+  font-size: 60px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  color: blueviolet;
+  justify-content: center;
+}
+
+.item {
+  background-color: #322132;
+  padding: 10px;
+  text-align: center;
+}
+
+.prendas {
+  height: 200px;
+  width: 250px;
+}
+
+.nombres-prendas {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+  font-weight: bolder;
+  font-style: normal;
+  text-align: center;
+  text-decoration: none;
+  margin-bottom: 0%;
+}
+
+.precios-prendas {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+  font-style: normal;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 0%;
+}
+
+h3 {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20PX;
+  font-style: normal;
+  text-align: start;
+  text-decoration: none;
+}
+
+table {
+  height: 100%;
+  width: 100%;
+}
+
+th, td {
+  padding: 10px;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+}
+
+th {
+  background-color: violet;
+  font-weight: bolder;
+  border: solid black;
+}
+
+.Comprar-entradas {
+  font-size: 20px;
+  font-weight: bolder;
+  color: white;
+  text-decoration: none;
+  background-color: red;
+}
+
+.banderas {
+  width: 50px;
+  height: 50px;
+}
+
+h4 {
+  color: red;
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  text-decoration: line-through;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+.botones {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+
+.botones-ancle {
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+  border-radius: 6px;
+}
+
+li:hover {
+  border-radius: 5px;
+  background-color: #BE71BE;
+  padding: 3px;
+}
+
+.Barra-inicio {
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  position: sticky;
+}
+
+#cuerpo-inicio {
+  display: flex;
+}
+
+#foto-duki-inicio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30%;
+  width: 40%;
+  height: 20%;
+}
+
+#texto-inicio {
+  color: white;
+  padding: 0%;
+  font-size: 20px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: left;
+  flex-flow: column wrap;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+div img {
+  height: 95%;
+  width: 95%;
+  margin: 20px;
+}
+
+/*# sourceMappingURL=styles.css.map */
