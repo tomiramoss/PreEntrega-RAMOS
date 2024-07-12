@@ -17,11 +17,6 @@ h2 {
   text-align: center;
 }
 
-.logos-footer {
-  height: 100px;
-  width: 100px;
-}
-
 #merch-duki {
   font-size: 60px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -166,7 +161,8 @@ li:hover {
 
 #texto-inicio {
   color: white;
-  padding: 0%;
+  padding-left: 10%;
+  padding-right: 10%;
   font-size: 20px;
   font-weight: bolder;
   font-style: italic;
@@ -187,6 +183,12 @@ div img {
   height: 95%;
   width: 95%;
   margin: 20px;
+}
+
+.spotify-songs{
+  margin: 50px;
+  justify-items: center;
+  align-items: center;
 }
 
 /*# sourceMappingURL=styles.css.map */

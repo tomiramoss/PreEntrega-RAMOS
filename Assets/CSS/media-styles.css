@@ -18,3 +18,28 @@
     }
 }
 
+.grilla-tour{
+    width: 100%;
+
+}
+
+
+@media (max-width: 768px) {
+    .grilla-tour {
+    width: 300px;
+    margin-left: 150px;
+    margin-right: 10px;
+    }
+}
+
+
+.logos-footer {
+height: 100px;
+width: 100px;
+}
+
+@media (max-width: 768px) {
+    .logos-footer {
+    display: block;
+    }
+}
